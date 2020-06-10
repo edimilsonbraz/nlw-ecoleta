@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
 </p>
+
 ## Features
 This application features all the latest tools and practices in web development!
 
