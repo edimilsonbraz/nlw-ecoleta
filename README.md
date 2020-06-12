@@ -8,11 +8,6 @@
   <img src="https://ik.imagekit.io/1n1swj1w28/NLW/Ecoleta_001_-nuq6ZDpj.png" alt="E-coleta img 01">
   <img src="https://ik.imagekit.io/1n1swj1w28/NLW/Ecoleta_002_IXynbiCQN.png" alt="E-coleta img 02">
 </h1>
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
 <br>
 
 ## Tecnologias utilizadas :rocket:<br>
