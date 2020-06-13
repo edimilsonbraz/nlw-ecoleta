@@ -9,7 +9,6 @@
   <img src="https://ik.imagekit.io/1n1swj1w28/NLW/Ecoleta_002_IXynbiCQN.png" alt="E-coleta img 02">
 </h1>
 <br>
-
 ## Tecnologias utilizadas :rocket:<br>
 Essa aplicação apresenta algumas ferramentas e práticas mais recentes em desenvolvimento web!
 
